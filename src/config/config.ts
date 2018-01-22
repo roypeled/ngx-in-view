@@ -1,7 +1,7 @@
-import {Injectable, EventEmitter, OpaqueToken, Inject} from '@angular/core';
+import {Injectable, EventEmitter, InjectionToken, Inject} from '@angular/core';
 import {IInViewConfig} from './config.interface';
 
-export const INV_CONFIG = new OpaqueToken('INV_CONFIG');
+export const INV_CONFIG = new InjectionToken('INV_CONFIG');
 
 @Injectable()
 export class InViewConfig {
