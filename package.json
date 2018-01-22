@@ -33,16 +33,16 @@
     "in-view": "^0.6.1"
   },
   "peerDependencies": {
-    "@angular/core": "^2.3.0 || >=4.0.0"
+    "@angular/core": "^2.3.0 || >=5.0.0"
   },
   "devDependencies": {
-    "@angular/common": "^4.0.0",
-    "@angular/compiler": "^4.0.0",
-    "@angular/compiler-cli": "^4.0.0",
-    "@angular/core": "^4.0.0",
-    "@angular/platform-browser": "^4.0.0",
-    "@angular/platform-browser-dynamic": "^4.0.0",
-    "@angular/router": "^4.0.0",
+    "@angular/common": "^5.0.0",
+    "@angular/compiler": "^5.0.0",
+    "@angular/compiler-cli": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "@angular/platform-browser": "^5.0.0",
+    "@angular/platform-browser-dynamic": "^5.0.0",
+    "@angular/router": "^5.0.0",
     "@salesforce-ux/design-system": "^2.2.1",
     "@types/node": "^6.0.56",
     "angular-router-loader": "^0.5.0",
